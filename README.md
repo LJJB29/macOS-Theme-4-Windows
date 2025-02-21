@@ -25,4 +25,14 @@ By Now myDockFinder is probably installed so to get the basic icons such as find
 
 macOS Ventura 13 On Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=2901147752
 
+(if your pirating this , Tough luck)
+
+# Step 4
+Open Your extracted Zip File.
+
+It should look like this:
+
+![image](https://github.com/user-attachments/assets/51cefccc-4d65-4411-8aab-55816e20ab35)
+
+
 
