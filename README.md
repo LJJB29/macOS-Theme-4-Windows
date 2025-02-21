@@ -19,3 +19,10 @@ WinRAR: https://www.win-rar.com/start.html?&L=0
 
 Now You Want to Locate the Recently Downloaded zip File i mentioned earlier (Step 1) and unzip it with either of these tools.
 (You can use microsofts shitty BUILT IN zip extracter but 7zip or winRAR are better)
+
+# Step 3
+By Now myDockFinder is probably installed so to get the basic icons such as finder and calendar to work download this third party steam workshop extentsion for MyDockFinder.
+
+macOS Ventura 13 On Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=2901147752
+
+
