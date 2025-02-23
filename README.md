@@ -73,7 +73,8 @@ you cant change Explorers name to finder sorry :(
 # Conclusion
 Your Pc Should Now look like macOS.
 
-All rights for MyDockfinder Go To who ever th fuck made it (idk ur name srry)
+Congratulations
+
 
 
 
